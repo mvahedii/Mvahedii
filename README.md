@@ -1,6 +1,7 @@
 
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvahedii&layout=compact&theme=github_dark"/>|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvahedii&layout=compact&theme=github_dark"/>
+</p>
 
 ```js
 import SoftwareDeveloper from 'thompsonemerson';
@@ -18,7 +19,3 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 ```
-----
-Credit: [thompsonemerson](https://github.com/thompsonemerson)
-
-Last Edited on: 23/09/2020
