@@ -7,15 +7,15 @@
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'Mohammad Vahedi';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  company  = 'BaleMessenger';
+  location = 'Tehran, IR';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['TypeSciprt', 'Python'];
+  databases  = ['MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'Nest'];
 }
 ```
