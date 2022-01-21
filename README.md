@@ -9,12 +9,12 @@ import SoftwareDeveloper from 'thompsonemerson';
 class Bio extends SoftwareDeveloper {
   name     = 'Mohammad Vahedi';
   title    = 'Software Engineer';
-  company  = 'BaleMessenger';
+  company  = 'Snappfood';
   location = 'Tehran, IR';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['TypeSciprt', 'Python'];
+  languages  = ['TypeSciprt', 'Go'];
   databases  = ['MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'Nest'];
 }
